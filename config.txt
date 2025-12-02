@@ -1,2 +1,2 @@
 Some configuration
-anothe configuration
+another configuration
